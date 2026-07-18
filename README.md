@@ -195,7 +195,7 @@ Only a few variables are used.
 
 ## LeetCode Link
 
-https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+https://leetcode.com/u/Ammar1ahmad/
 
 ---
 
